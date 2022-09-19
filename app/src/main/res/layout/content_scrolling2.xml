@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ScrollingActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:text="1. 개요\n주로 관상용으로 재배된다. 꽃말은 희망, 평화.  유럽 서부지역이 원산지이다. 우리가 볼 수 있는 데이지꽃은 대부분 개량종이며, 원꽃은 민들레와 비슷하게 생겼다고 한다.현재 시판되고 있는 데이지는 수십종이 넘지만 보통 '데이지'라고 하면 Lawn daisy라고도 불리는 잉글리쉬데이지를 말한다. 원산지에서는 여러해살이풀이지만 유통되는 꽃은 씨앗번식이 잘 되는 일년생으로 개량되었다고 한다. 한국에선 봄을 장식하는 대표적인 초화류에 속한다.  뿌리는 수염뿌리로 사방으로 퍼져나가며 잎은 줄기가 아닌 뿌리에서 나오고 달걀처럼 둥그스름한 타원형이다. 꽃은 봄부터 가을까지 오랫동안 피며 종에 따라 흰색, 연한 홍색, 홍색 또는 홍자색으로 매우 다양하다. 꽃자루가 뿌리에서 자라 나오는데 길이는 끝에 1개의 두상화가 달리며 빛이 없는 밤에는 오므라든다.  이탈리아의 국화로, 태양이 뜨면 고개를 들고 태양이 지면 고개를 내린다 하여 '태양의 눈'이라 불린다.[1] 색깔은 하얀색, 노란색, 분홍색 등 다양한 색깔이 있다.\n\n2. 이름에 데이지가 들어간 식물들\n이름: 아프리칸 데이지 (디모르포세카 / 아프리칸 금잔화) \n학명: Dimorphotheca ecklonis \n설명: 디모르포세카로 많이 알려진 대중적인 화초이다. \n이름: 블루데이지(청화국) \n학명: Felicia amelloides \n이름: 쑥갓(크라운 데이지) \n학명: Glebionis coronaria \n설명: 한국에서는 주로 채소로 쓰이지만 외국에서는 관상용으로 꽃밭에 심기도 할 정도로 관상적 가치가 있다. \n이름: 크리핑 데이지 (마가렛) 목마가렛\n학명: Chrysanthemum frutescens Argyranthemum frutescens\n 특징: 잎이 어린 쑥갓과 닮았음 꽃 색이 보통 흰색 잎이 잘게 갈라져 있음 꽃 색이 빨강, 분홍 등으로 다양함 줄기가 나무처럼 목질화됨\n 이름: 샤스타 데이지 구절초 \n학명: Chrysanthemum burbankii Chrysanthemum zawadskii var. latilobum\n 특징: 5~7월에 개화 꽃 색은 흰색 잎이 둥글거나 길쭉하고 톱니있는 주걱 모양이며, 개체별로 차이가 있음 9~10월에 개화 꽃 색은 대부분 흰색이며 연보라색인 경우도 있음 잎이 일반 국화와 비슷하거나 더 많이 갈라져 있음 종류가 다양함 위의 4종류는 생김새가 유사해서 구분이 힘든 편인데, 마가렛과 목마가렛은 꽃잎의 양 끝이 둥글고 샤스타데이지와 구절초는 길        쭉하게 뻗어 있는 모양이다. \n 이름: 벌개미취 (코리안 데이지) \n학명: Aster koraiensis \n설명: 한국 토종이라고 코리안이 붙었다고는 하는데... 구글에 Korean daisy로 검색하면 벌개미취도 구절초도 아닌 꽃들이 나온다. \n이름: 거베라 (바버턴 데이지) \n학명: Gerbera \n설명: 거베라속의 모든 종을 총칭한다. 주로 화환에 쓰인다.\n 이름: 리빙스턴 데이지 \n학명: Dorotheanthus bellidiformis(석죽목 석류풀과)\n 설명: 이름에 데이지가 있지만 국화과가 아니다." />
+
+
+</androidx.core.widget.NestedScrollView>

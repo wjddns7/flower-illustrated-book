@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">dogam</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text"></string>
+    <string name="cosmos">
+        1. 개요 "\n"
+        원산지는 멕시코. 이름의 유래는 질서를 뜻하는 코스모스. 명명자는 스페인의 식물학자 안토니오 호세 카바닐레스.
+        코스모스 관광지로는 국내의 경우는, 구리 한강 공원의 코스모스 축제가 유명하다.
+        굳이 이런 축제가 아니라도 멕시코에서 자라던 잡초라 아무데서나 들이나 길가에 흐드러지게 핀 것을 많이 볼 수 있는 꽃으로, 돌봐주지 않아도 노변이나 공터에서 씩씩하게 자란다. 집에 정원이 없거나 집 근처에 공원이 없는 서민에게도 아름다움을 선사해주는 고마운 꽃으로, 모양이 소박하면서도 예뻐서 많은 이들에게 사랑받는다. 또한 여름의 불볕더위가 사그러질 무렵 피기 때문에, 잠자리와 더불어 서늘한 가을의 전령으로 환영받기도 한다. 한국에 도입된 시기는 불분명하나 대략 구한말 때로 추정한다.
+        "\n\n"2. 언어별 명칭 "\n"
+        언어별 명칭
+        영어:
+        Cosmos"\n"
+        한국어:
+        코스모스, 살사리꽃"\n"
+        중국어:
+        波斯菊bōsījú"\n"
+        일본어:
+        コスモス, 秋桜あきさくら"\n"
+        "\n\n" 3. 여담 "\n"
+        대학교에서 조기졸업, 졸업유예, 휴학, 학점 부족, 졸업시험 불합격 등의 사유로 졸업식을 2월이 아닌 8월에 하게되는 경우 이 꽃이 피는 때라 하여 코스모스 졸업이라고 한다."\n"
+        코스모스의 꽃잎의 개수는 거의가 8장이다."\n"
+        꽃말은 소녀의 순결, 순정이다."\n"
+        부산은행의 행화로도 쓰이고 있다.
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cosmos">cosmos</string>
+    <string name="title_activity_daisy">daisy</string>
+    <string name="title_activity_sunflower">sunflower</string>
+    <string name="title_activity_mistflower">mistflower</string>
+</resources>
