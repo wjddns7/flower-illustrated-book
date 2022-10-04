@@ -80,3 +80,8 @@ public class MainActivity extends AppCompatActivity {
 학명 중 Gypsophila(깁소필라)의 어원은 그리스어의 gypsos(석회)와 philein(좋아한다)의 합성어로 석회질 토양에서 잘 자라기 때문에 이렇게 이름이 붙여졌다."\
 />
 ```
+## 5.실행 화면
+* 시작 화면<br/>![image](https://user-images.githubusercontent.com/108790183/193715522-2c0e5236-f85f-4bd4-9d75-a9309347da67.png)
+* 꽃 종류<br/>![image](https://user-images.githubusercontent.com/108790183/193715550-baf9430f-9643-44c1-9b39-25685e511e2a.png)
+* 설명 화면<br/>![image](https://user-images.githubusercontent.com/108790183/193715615-a0bb40d9-1ce5-42d9-9766-16eeef314f50.png)
+
